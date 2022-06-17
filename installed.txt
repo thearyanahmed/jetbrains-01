@@ -1,0 +1,8 @@
+com.arcticicestudio.nord.jetbrains
+com.laravel_idea.plugin
+com.maaxgr.intellij.jsonviewer
+com.mallowigi.idea
+de.espend.idea.laravel
+dev.meanmail.plugin.nginx-intellij-plugin
+mobi.hsz.idea.gitignore
+ru.adelf.idea.dotenv

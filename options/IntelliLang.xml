@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL create</display-name>
+      <place disabled="true"><![CDATA[jsLiteral().withStringValueIgnoringInterpolations(string().matchesBrics(" *(CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX) .*"))]]></place>
+    </injection>
+  </component>
+</application>
